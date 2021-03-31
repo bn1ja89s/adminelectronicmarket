@@ -8,7 +8,7 @@ class Ruta{
 
 	public function ctrRuta(){
 
-		return "https://electronicmarket.netlify.app/";
+		return "https://electronicmarket.cleverapps.io/";
 	
 	}
 
@@ -18,7 +18,7 @@ class Ruta{
 
 	public function ctrRutaServidor(){
 
-		return "https://adminelectronicmarket.netlify.app/";
+		return "https://adminelectronicmarket.cleverapps.io/";
 	
 	}
 
